@@ -1,4 +1,4 @@
-# bulls-ai-  Bully Behavior Prediction App
+# bulls.ai - Bully Behavior Prediction App
 Entrepreneurial project to prevent bullying, cooperation with Amazon Web Services (AWS).
 
 ## Overview
